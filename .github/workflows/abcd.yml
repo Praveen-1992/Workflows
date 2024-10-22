@@ -13,6 +13,6 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
       - name: Hello World ActionSmart334455
-        uses: Praveen-1992/hello-world-action@v10
+        uses: Praveen-1992/hello-world-action@v11
         with:
           who-to-greet: 'GitHub'
